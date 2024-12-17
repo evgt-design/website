@@ -100,6 +100,17 @@
     ]
   },
   {
+    "menuItem": "Intuition Intermission",
+    "title": "KABK graduation project Intuition Intermission",
+    "date": "2023",
+    "info": "Intuition Intermission is a ",
+    "images": [
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_1.png",
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_2.png",
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg"
+    ]
+  },
+  {
     "menuItem": "Tangi",
     "title": "Tangi kindergarten logo",
     "date": "2023",
@@ -107,7 +118,7 @@
     "images": [
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_1.png",
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_2.png",
-      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg",
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg"
 
     ]
   }
