@@ -11,17 +11,22 @@
     ]
   },
   {
-    "menuItem": "Another Item",
+    "menuItem": "Best Dutch Book Design Student Catalogue",
     "title": "Title 2",
     "date": "2024-12-05",
     "info": "Details about another item",
     "images": [
-      "assets/images/2024_portfolio_files/archive/archive_1.JPG",
-      "assets/images/2024_portfolio_files/archive/archive_2.jpg",
-      "assets/images/2024_portfolio_files/archive/archive_3.jpg",
-      "assets/images/2024_portfolio_files/archive/archive_5.JPG",
-      "assets/images/2024_portfolio_files/archive/archive_6.jpg",
-      "assets/images/2024_portfolio_files/archive/archive_7.jpg"
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_5.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_6.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_7.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_8.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_9.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_10.jpg"
+
     ]
   },
   {
