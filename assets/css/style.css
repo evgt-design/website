@@ -4,10 +4,10 @@
 
 /* @FONT FACE (enable the use of 'custom fonts' inside your document) */
 
-/* 
-  You can use 'fontsquirrel' (https://www.fontsquirrel.com) 
+/*
+  You can use 'fontsquirrel' (https://www.fontsquirrel.com)
   or 'transfonter' (https://transfonter.org)
-  to generate your own font for the web from .ttf or .oft files 
+  to generate your own font for the web from .ttf or .oft files
 */
 
 @font-face {
@@ -174,7 +174,7 @@ summary {}
   backdrop-filter: blur(10px);
   transition: height 0.4s ease-in-out;
   z-index: 999;
-  display: flex;
+  display: block;
   flex-direction: column; /* Ensure column layout for the content */
 }
 
