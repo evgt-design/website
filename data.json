@@ -2,7 +2,7 @@
   {
     "menuItem": "BDBD",
     "title": "Best Dutch Book Design student catalogue 2022",
-    "date": "2022-10-07",
+    "date": "2022",
     "info": "Catalogue design for the student catalogue of best dutch book design 2022, designed with Patrick Hutchinson and Alice Vink. Guided by Bart de Baets. Info about book added later.",
     "images": [
       "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_1.jpg",
@@ -20,7 +20,7 @@
   {
     "menuItem": "Vitar",
     "title": "Vitar",
-    "date": "2024-7-28",
+    "date": "2024",
     "info": "Modern usage of the term trivia dates to the 1960s, when college students introduced question-and-answer contests to their universities. A board game, Trivial Pursuit, was released in 1982 in the same vein as these contests. Since the beginning of its modern usage, trivia contests have been established at various academic levels as well as casual venues such as bars and restaurants.",
     "images": [
       "assets/images/2024_portfolio_files/editorial/vitar/vitar_1.png",
@@ -38,7 +38,7 @@
   {
     "menuItem": "RDF",
     "title": "Title 2",
-    "date": "2022-11-17",
+    "date": "2022",
     "info": "Details about another item",
     "images": [
       "assets/images/2024_portfolio_files/editorial/rdf/rdf_1.jpg",
@@ -53,7 +53,7 @@
   {
     "menuItem": "Textures",
     "title": "Textures",
-    "date": "2021-04-23",
+    "date": "2021",
     "info": "Textures is an experimental publication that transforms thirteen artworks into an exploration of material and detail. Each section is printed on a mix of coated papers, silver, milk, and ivory. The artworks are fragmented into sixteen zoomed-in pages, inviting nonlinear exploration—lingering on details, flipping between pages, and uncovering new compositions. By shifting focus from the whole artwork and for allowing the details and textures to shine, Textures challenges the viewer to engage with overlooked moments in the creative process. Namely zooming in.",
     "images": [
       "assets/images/2024_portfolio_files/editorial/texture/texture_1.jpg",
@@ -69,7 +69,7 @@
   {
     "menuItem": "Woah!",
     "title": "Woah! Relax there David Carson design",
-    "date": "2023-11-23",
+    "date": "2023",
     "info": "Collection of images from weathered, ripped or torn stickers and posters, alongside graphic events around a few locations.",
     "images": [
       "assets/images/2024_portfolio_files/editorial/woah/woah_1.jpg",
@@ -97,6 +97,18 @@
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_8.jpg",
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_9.jpg",
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_10.jpg"
+    ]
+  },
+  {
+    "menuItem": "Tangi",
+    "title": "Tangi kindergarten logo",
+    "date": "2023",
+    "info": "A logo made for the kindergarten Tangi located in the Westfjords of Iceland. The idea is that the flower represents the kids, the colours represent the town, and the lettering being skewed, represents the uncertainty of of the everyday.",
+    "images": [
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_1.png",
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_2.png",
+      "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg",
+
     ]
   }
 
