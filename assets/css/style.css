@@ -67,6 +67,7 @@ body {
 
 main {
   overflow-x: hidden;
+  overflow: hidden;
 }
 
 a {
@@ -254,10 +255,13 @@ summary {}
 }
 
 .content-item {
-  pointer-events: none;
   z-index: 999;
   position: relative;
   display: block;
+}
+
+.content-item div {
+  pointer-events: none;
 }
 
 .content-item p {
@@ -386,6 +390,13 @@ img {
   /* body {
     overflow-x: hidden;
   } */
+   
+  .content-item {
+    /* pointer-events: auto; */
+    overflow: scroll;
+    height: 95%;
+    margin-bottom: 5%;
+  }
 
   .slick-prev,
   .slick-next {
@@ -406,13 +417,14 @@ img {
     position: fixed;
     top: 0;
     left: 0;
+    overflow-y: scroll !important;
     /* transform: translateX(-100%); */
   }
 
   .bio.active {
     transition: height 0.4s ease-in-out;
     height: 100%;
-    backdrop-filter: blur(10px);
+    background-color: white;
   }
 
   .switch {

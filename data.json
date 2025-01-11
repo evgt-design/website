@@ -54,7 +54,7 @@
     "menuItem": "Textures",
     "title": "Textures",
     "date": "2021",
-    "info": "Textures is an experimental publication that transforms thirteen artworks into an exploration of material and detail. Each section is printed on a mix of coated papers, silver, milk, and ivory. The artworks are fragmented into sixteen zoomed-in pages, inviting nonlinear exploration—lingering on details, flipping between pages, and uncovering new compositions. By shifting focus from the whole artwork and for allowing the details and textures to shine, Textures challenges the viewer to engage with overlooked moments in the creative process. Namely zooming in.",
+    "info": "Textures is an experimental publication that transforms thirteen artworks into an exploration of material and detail. Each section is printed on a mix of coated papers, silver, milk, and ivory. \nThe artworks are fragmented into sixteen zoomed-in pages, inviting nonlinear exploration—lingering on details, flipping between pages, and uncovering new compositions. By shifting focus from the whole artwork and for allowing the details and textures to shine, Textures challenges the viewer to engage with overlooked moments in the creative process. Namely zooming in.",
     "images": [
       "assets/images/2024_portfolio_files/editorial/texture/texture_1.jpg",
       "assets/images/2024_portfolio_files/editorial/texture/texture_2.jpg",
@@ -77,26 +77,24 @@
       "assets/images/2024_portfolio_files/editorial/woah/woah_3.jpg",
       "assets/images/2024_portfolio_files/editorial/woah/woah_4.jpg",
       "assets/images/2024_portfolio_files/editorial/woah/woah_5.jpg"
-
     ]
   },
-
   {
     "menuItem": "Outvert Artspace Exhibition",
     "title": "Another Þrykk Up My Sleeve",
     "date": "2024-09-07",
-    "info": "For a long time I have been collecting pictures of shapes that appear around me, shapes that I then arrange and work with in various ways. However, it wasn’t long ago that I discovered theories that cover this called GRAPHIC EVENTS (Graphic Events: A Realist Account of Graphic Deisng). Graphic Events is a term for designs that happen by accident, develop over time, or come together of things that don’t really belong together. A sticker on a lamppost that has been partially scratched away, a torn poster, weathered advertisements, fog damage on a window, a scratch on a container or a scribble on a wall. These so-called events leave a trail of beautiful, unexpected forms that tend to be forgotten in everyday life, something we see, but pay no attention to. Some years ago, I started collecting pictures of such forms/events wherever I went, and it turned into a picture book. The shapes and forms in the collection often end up in prints one way or another. Now they have become a series in the show “Another Þrykk Up My Sleeve” (þrykk being a word for printing in Icelandic). The shapes and forms are used and put together in a variety of ways – sometimes they dance together or entangle each other.",
+    "info": "For a long time I have been collecting pictures of shapes that appear around me, shapes that I then arrange and work with in various ways. However, it wasn’t long ago that I discovered theories that cover this called GRAPHIC EVENTS (Graphic Events: A Realist Account of Graphic Design). \nGraphic Events is a term for designs that happen by accident, develop over time, or come together of things that don’t really belong together. A sticker on a lamppost that has been partially scratched away, a torn poster, weathered advertisements, fog damage on a window, a scratch on a container or a scribble on a wall.\nThese so-called events leave a trail of beautiful, unexpected forms that tend to be forgotten in everyday life, something we see, but pay no attention to. Some years ago, I started collecting pictures of such forms/events wherever I went, and it turned into a picture book. The shapes and forms in the collection often end up in prints one way or another.\n\nNow they have become a series in the show “Another Þrykk Up My Sleeve” (þrykk being a word for printing in Icelandic). The shapes and forms are used and put together in a variety of ways – sometimes they dance together or entangle each other.",
     "images": [
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_1.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_2.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_3.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_4.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_5.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_6.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_7.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_8.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_9.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_10.jpg"
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_5.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_6.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_7.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_8.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_9.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_10.jpg"
     ]
   },
   {
@@ -119,10 +117,8 @@
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_1.jpg",
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_2.jpg",
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg"
-
     ]
   },
-
   {
     "menuItem": "Sléttan",
     "title": "Slétting / Traces of Herring",
@@ -139,8 +135,6 @@
       "assets/images/2024_portfolio_files/editorial/slettan/slettan_8.jpg",
       "assets/images/2024_portfolio_files/editorial/slettan/slettan_9.jpg",
       "assets/images/2024_portfolio_files/editorial/slettan/slettan_10.jpg"
-
     ]
   }
-
 ]

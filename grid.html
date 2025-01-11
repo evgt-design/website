@@ -318,6 +318,7 @@
 	}
 
 	.artwork {
+		margin-bottom: 10vh;
 		position: relative;
 		width: 25%;
 		height: 25vh;
@@ -439,48 +440,6 @@
 			typeWriter();
 		});
 	});
-
-	function setupIntersectionObserver() {
-		const observerOptions = {
-			root: null, // Use the viewport as the root
-			threshold: 1 // Trigger when 90% of the element is in view
-		};
-
-		const observer = new IntersectionObserver((entries) => {
-			entries.forEach(entry => {
-				const artwork = entry.target;
-				const titleDisplay = document.getElementById('title-display');
-
-				if (entry.isIntersecting) {
-					// Unblur the image when the element is in view
-					const img = artwork.querySelector('img');
-					img.style.filter = 'blur(0)';
-
-					// Update the title display with the artwork's data-title
-					const newTitle = artwork.dataset.title;
-					titleDisplay.textContent = `Title: ${newTitle}`;
-				} else {
-					// Reapply blur when the element exits view
-					const img = artwork.querySelector('img');
-					img.style.filter = 'blur(5px)'; // Optional: adjust the blur level
-				}
-			});
-		}, observerOptions);
-
-		// Apply observer to all artwork elements
-		document.querySelectorAll('.artwork').forEach(artwork => {
-			observer.observe(artwork);
-		});
-	}
-
-	// Function to enable observer only for mobile
-	function enableMobileObserver() {
-		const isMobile = window.matchMedia('(max-width: 779px)').matches;
-
-		if (isMobile) {
-			setupIntersectionObserver();
-		}
-	}
 
 	// Run the setup function on page load
 	enableMobileObserver();
