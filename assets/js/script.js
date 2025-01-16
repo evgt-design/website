@@ -162,7 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
     contentDiv.querySelector('.date p').textContent = item.date;
 
     // Add the consistent "(C.) Information" title
-    const infoTitle = `(C.) Information`;
+    const infoTitle = `(C.) INFORMATION`;
     
     // Replace \n with new paragraph tags for the content
     const formattedInfo = item.info
