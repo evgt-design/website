@@ -311,17 +311,19 @@
 
 	.container {
 		width: 100vw;
-		display: flex;
-		flex-wrap: wrap;
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-rows: auto;
+		/* flex-wrap: wrap; */
 		/* flex-direction: column-reverse; */
-		align-items: flex-start;
+		/* align-items: flex-start; */
 	}
 
 	.artwork {
 		margin-bottom: 10vh;
 		position: relative;
-		width: 25%;
-		height: 25vh;
+		/* width: 25%; */
+		height: 40vh;
 		/* border: 1pt greenyellow solid; */
 		box-sizing: border-box;
 		transition: border 0.2s ease-in;
