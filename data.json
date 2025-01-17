@@ -59,6 +59,24 @@
   },
 
   {
+    "menuItem": "Color Diary 1",
+    "title": "Color Diary vol. 1",
+    "date": "2023",
+    "info": "A collection of artworks, textures and prints, made into a zine and printed with RISO Comcolor.",
+    "images": [
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor2.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor3.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor4.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor5.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor6.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor7.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor8.jpg",
+      "assets/images/2024_portfolio_files/editorial/colordiary/comcolor9.jpg"
+    ]
+  },
+
+  {
     "menuItem": "Intuition Intermission",
     "title": "KABK graduation project Intuition Intermission",
     "date": "2023",
