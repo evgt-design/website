@@ -1,55 +1,5 @@
 [
-  {
-    "menuItem": "BDBD",
-    "title": "Best Dutch Book Design Student Catalogue",
-    "date": "2022",
-    "info": "Design of the student catalogue of the best dutch book designs of 2021, designed with Patrick Hutchinson and Alice Vink, guided by Bart de Baets and commissioned by Esther Scholten. \nThe design of the catalogue reflects the tactile and instinctive way the student jury interacted with over 300 books during the selection process. With limited time for deep reading, their focus shifted to the immediate qualities of each book—how it felt, opened, bent, or even smelled. \nInspired by this exploration, the selection was scanned in different ways to highlight the materiality and movement of the books. The layout mirrors the jury’s dynamic engagement, creating a visual narrative that celebrates the physicality of the publications.\n The catalogue was printed in offset by Drukkerij Tielen",
-    "images": [
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_1.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_2.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_3.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_4.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_5.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_6.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_7.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_8.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_9.jpg",
-      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_10.jpg"
-    ]
-  },
-  {
-    "menuItem": "Vitar",
-    "title": "Vitar",
-    "date": "2024",
-    "info": "Modern usage of the term trivia dates to the 1960s, when college students introduced question-and-answer contests to their universities. A board game, Trivial Pursuit, was released in 1982 in the same vein as these contests. Since the beginning of its modern usage, trivia contests have been established at various academic levels as well as casual venues such as bars and restaurants.",
-    "images": [
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_1.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_2.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_3.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_4.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_5.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_6.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_7.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_8.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_9.png",
-      "assets/images/2024_portfolio_files/editorial/vitar/vitar_10.png"
-    ]
-  },
-  {
-    "menuItem": "RDF",
-    "title": "Reykjavik Dance Festival 20th anniversary zine",
-    "date": "2022",
-    "info": "The RDF Zine was a collaborative project worked alongside Reykjavik Dance Festival, Sóley Frostadóttir and Sigurður Atli Sigurðsson. The idea was to make a punk-like DIY zine consisting of 20 years of materials from the previous RDF through the years. The zine is printed in offset by Newspaper Club in Scotland.",
-    "images": [
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_1.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_2.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_3.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_4.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_5.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_6.jpg",
-      "assets/images/2024_portfolio_files/editorial/rdf/rdf_7.jpg"
-    ]
-  },
+
   {
     "menuItem": "Textures",
     "title": "Textures",
@@ -72,36 +22,42 @@
       "assets/images/2024_portfolio_files/editorial/texture/texture_14.jpg"
     ]
   },
+
   {
-    "menuItem": "Woah!",
-    "title": "Woah! Relax there David Carson design",
-    "date": "2023",
-    "info": "Collection of images from weathered, ripped or torn stickers and posters, alongside graphic events around a few locations.",
+    "menuItem": "BDBD",
+    "title": "Best Dutch Book Design Student Catalogue",
+    "date": "2022",
+    "info": "Design of the student catalogue of the best dutch book designs of 2021, designed with Patrick Hutchinson and Alice Vink, guided by Bart de Baets and commissioned by Esther Scholten. \nThe design of the catalogue reflects the tactile and instinctive way the student jury interacted with over 300 books during the selection process. With limited time for deep reading, their focus shifted to the immediate qualities of each book—how it felt, opened, bent, or even smelled. \nInspired by this exploration, the selection was scanned in different ways to highlight the materiality and movement of the books. The layout mirrors the jury’s dynamic engagement, creating a visual narrative that celebrates the physicality of the publications.\n The catalogue was printed in offset by Drukkerij Tielen",
     "images": [
-      "assets/images/2024_portfolio_files/editorial/woah/woah_1.jpg",
-      "assets/images/2024_portfolio_files/editorial/woah/woah_2.jpg",
-      "assets/images/2024_portfolio_files/editorial/woah/woah_3.jpg",
-      "assets/images/2024_portfolio_files/editorial/woah/woah_4.jpg",
-      "assets/images/2024_portfolio_files/editorial/woah/woah_5.jpg"
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_5.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_6.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_7.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_8.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_9.jpg",
+      "assets/images/2024_portfolio_files/editorial/bdbd/bdbd_10.jpg"
     ]
   },
+
   {
-    "menuItem": "Another Þrykk Up My Sleeve",
-    "title": "Exhibition in Outvert Artspace, Iceland",
-    "date": "2024-09-07",
-    "info": "For a long time I have been collecting pictures of shapes that appear around me, shapes that I then arrange and work with in various ways. However, it wasn’t long ago that I discovered theories that cover this called GRAPHIC EVENTS (Graphic Events: A Realist Account of Graphic Design). \nGraphic Events is a term for designs that happen by accident, develop over time, or come together of things that don’t really belong together. A sticker on a lamppost that has been partially scratched away, a torn poster, weathered advertisements, fog damage on a window, a scratch on a container or a scribble on a wall.\nThese so-called events leave a trail of beautiful, unexpected forms that tend to be forgotten in everyday life, something we see, but pay no attention to. Some years ago, I started collecting pictures of such forms/events wherever I went, and it turned into a picture book. The shapes and forms in the collection often end up in prints one way or another.\n\nNow they have become a series in the show “Another Þrykk Up My Sleeve” (þrykk being a word for printing in Icelandic). The shapes and forms are used and put together in a variety of ways – sometimes they dance together or entangle each other. \nPhotos taken by Haukur Sigurðsson",
+    "menuItem": "RDF",
+    "title": "Reykjavik Dance Festival 20th anniversary zine",
+    "date": "2022",
+    "info": "The RDF Zine was a collaborative project worked alongside Reykjavik Dance Festival, Sóley Frostadóttir and Sigurður Atli Sigurðsson. The idea was to make a punk-like DIY zine consisting of 20 years of materials from the previous RDF through the years. The zine is printed in offset by Newspaper Club in Scotland.",
     "images": [
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_1.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_2.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_4.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_5.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_6.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_7.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_8.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_9.jpg",
-      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_10.jpg"
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_5.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_6.jpg",
+      "assets/images/2024_portfolio_files/editorial/rdf/rdf_7.jpg"
     ]
   },
+
   {
     "menuItem": "Intuition Intermission",
     "title": "KABK graduation project Intuition Intermission",
@@ -124,6 +80,7 @@
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg"
     ]
   },
+
   {
     "menuItem": "Tangi",
     "title": "Tangi kindergarten logo",
@@ -135,6 +92,21 @@
       "assets/images/2024_portfolio_files/logos/tangi/tangi_logo_3.jpg"
     ]
   },
+
+  {
+    "menuItem": "Woah!",
+    "title": "Woah! Relax there David Carson design",
+    "date": "2023",
+    "info": "Collection of images from weathered, ripped or torn stickers and posters, alongside graphic events around a few locations.",
+    "images": [
+      "assets/images/2024_portfolio_files/editorial/woah/woah_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/woah/woah_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/woah/woah_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/woah/woah_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/woah/woah_5.jpg"
+    ]
+  },
+
   {
     "menuItem": "Sléttan",
     "title": "Slétting / Traces of Herring",
@@ -198,6 +170,44 @@
       "assets/images/2024_portfolio_files/logos/wewillsee/wewillsee_6.jpg"
     ]
   },
+
+  {
+    "menuItem": "Vitar",
+    "title": "Vitar",
+    "date": "2024",
+    "info": "Modern usage of the term trivia dates to the 1960s, when college students introduced question-and-answer contests to their universities. A board game, Trivial Pursuit, was released in 1982 in the same vein as these contests. Since the beginning of its modern usage, trivia contests have been established at various academic levels as well as casual venues such as bars and restaurants.",
+    "images": [
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_1.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_2.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_3.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_4.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_5.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_6.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_7.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_8.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_9.png",
+      "assets/images/2024_portfolio_files/editorial/vitar/vitar_10.png"
+    ]
+  },
+
+  {
+    "menuItem": "Another Þrykk Up My Sleeve",
+    "title": "Exhibition in Outvert Artspace, Iceland",
+    "date": "2024-09-07",
+    "info": "For a long time I have been collecting pictures of shapes that appear around me, shapes that I then arrange and work with in various ways. However, it wasn’t long ago that I discovered theories that cover this called GRAPHIC EVENTS (Graphic Events: A Realist Account of Graphic Design). \nGraphic Events is a term for designs that happen by accident, develop over time, or come together of things that don’t really belong together. A sticker on a lamppost that has been partially scratched away, a torn poster, weathered advertisements, fog damage on a window, a scratch on a container or a scribble on a wall.\nThese so-called events leave a trail of beautiful, unexpected forms that tend to be forgotten in everyday life, something we see, but pay no attention to. Some years ago, I started collecting pictures of such forms/events wherever I went, and it turned into a picture book. The shapes and forms in the collection often end up in prints one way or another.\n\nNow they have become a series in the show “Another Þrykk Up My Sleeve” (þrykk being a word for printing in Icelandic). The shapes and forms are used and put together in a variety of ways – sometimes they dance together or entangle each other. \nPhotos taken by Haukur Sigurðsson",
+    "images": [
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_1.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_2.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_4.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_5.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_6.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_7.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_8.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_9.jpg",
+      "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_10.jpg"
+    ]
+  },
+
   {
     "menuItem": "Sóknaráætlun Vestfjarða",
     "title": "Sóknaráætlun Vestfjarða 2025-2029",
