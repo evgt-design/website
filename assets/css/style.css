@@ -247,11 +247,6 @@ summary {}
   grid-template-columns: 1.2fr 1.6fr 1.2fr;
 }
 
-.menu-top .menu-item:nth-last-of-type(2) {
-  text-align: right;
-  padding-right: 0.4rem;
-}
-
 .content {
   position: relative;
   grid-area: content;
@@ -320,6 +315,7 @@ summary {}
 
 .swiper {
   height: 100%;
+  width: auto;
 }
 
 .swiper-slide {
@@ -327,11 +323,10 @@ summary {}
   justify-content: center;
   align-items: center;
   width: 100%;
-  /* Or a specific percentage */
-  height: auto;
-  margin-bottom: 4vh;
-  /* Or a fixed height */
+  height: 100%; /* Ensure it takes full container height */
+  margin-bottom: 0; /* Remove unnecessary spacing */
 }
+
 
 .swiper-scrollbar {
   display: none;
@@ -467,6 +462,10 @@ img {
     display: flex !important;
     justify-content: space-between;
   }
+
+  .menu-top .menu-item:nth-last-of-type(2) {
+    display: none;
+    }
 
   .menu-top .menu-item:nth-last-of-type(1) {
     padding-right: 0.4rem;

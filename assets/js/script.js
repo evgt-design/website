@@ -76,7 +76,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   media.addEventListener('change', () => {
     location.reload();
-});
+  });
 
 
   function setupImageHover() {
@@ -86,7 +86,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (mediaQuery.matches) {
       Images.forEach(img => {
-        img.style.transition = "filter 0.4s ease-in-out";
+        content.style.transition = "filter 0.3s ease-in-out";
+        img.style.transition = "filter 0.3s ease-in-out";
         img.style.filter = "opacity(50%) blur(10px)";
 
         img.addEventListener("mouseenter", () => {
@@ -103,12 +104,14 @@ document.addEventListener("DOMContentLoaded", () => {
       img.style.zIndex = "999";
       img.style.filter = "opacity(1) blur(0)";
       content.style.zIndex = "1";
+      content.style.filter = "opacity(0)"
     }
 
     function removeFocusStyles(img, content) {
       img.style.zIndex = "1";
       img.style.filter = "opacity(50%) blur(10px)";
       content.style.zIndex = "999";
+      content.style.filter = "opacity(1)"
     }
   }
 
@@ -140,7 +143,7 @@ document.addEventListener("DOMContentLoaded", () => {
     swiper = new Swiper('.swiper', {
       mousewheel: true,
       direction: 'vertical',
-      slidesPerView: 1.5,
+      slidesPerView: 1.4,
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
@@ -163,12 +166,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Add the consistent "(C.) Information" title
     const infoTitle = `(C.) INFORMATION`;
-    
+
     // Replace \n with new paragraph tags for the content
     const formattedInfo = item.info
-        .split('\n') // Split by newlines
-        .map(line => `<p>${line.trim()}</p>`) // Wrap each line in <p> tags
-        .join(''); // Join them into a single string
+      .split('\n') // Split by newlines
+      .map(line => `<p>${line.trim()}</p>`) // Wrap each line in <p> tags
+      .join(''); // Join them into a single string
 
     // Combine the title and formatted content
     contentDiv.querySelector('.info').innerHTML = infoTitle + formattedInfo;
@@ -176,24 +179,24 @@ document.addEventListener("DOMContentLoaded", () => {
     swiperWrapper.innerHTML = ''; // Clear current slides
 
     const imagePromises = item.images.map(imageSrc => {
-        return new Promise((resolve) => {
-            const slideDiv = document.createElement('div');
-            slideDiv.classList.add('swiper-slide');
+      return new Promise((resolve) => {
+        const slideDiv = document.createElement('div');
+        slideDiv.classList.add('swiper-slide');
 
-            const img = document.createElement('img');
-            img.src = imageSrc;
-            img.onload = () => resolve(slideDiv);
+        const img = document.createElement('img');
+        img.src = imageSrc;
+        img.onload = () => resolve(slideDiv);
 
-            slideDiv.appendChild(img);
-            swiperWrapper.appendChild(slideDiv);
-        });
+        slideDiv.appendChild(img);
+        swiperWrapper.appendChild(slideDiv);
+      });
     });
 
     Promise.all(imagePromises).then(() => {
-        setupImageHover();
-        setupSwiperAndNumber();
+      setupImageHover();
+      setupSwiperAndNumber();
     });
-}
+  }
 
 
   fetch('data.json')
