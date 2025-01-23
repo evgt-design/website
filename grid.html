@@ -60,7 +60,7 @@
 				<!-- <div class="menu-item">About Einar</div> -->
 			</div>
 
-			<div id="title-display">Title:</div>
+			<!-- <div id="title-display">Title:</div> -->
 
 			<!-- <h1> Hello World!</h1>
 			<p>A <strong>document</strong> by <em>me</em></p> -->
@@ -281,7 +281,6 @@
 </body>
 
 <style>
-
 	@keyframes blink {
 		50% {
 			border-color: transparent;
@@ -301,6 +300,9 @@
 	}
 
 	.menu-right {
+		z-index: 999;
+		position: fixed;
+		background-color: white;
 		display: flex;
 		width: 100vw;
 	}
@@ -310,6 +312,7 @@
 	}
 
 	.container {
+		padding-top: 10vh;
 		width: 100vw;
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
@@ -361,16 +364,16 @@
 	@media (max-width: 779px) {
 
 		#title-display {
-		margin-left: 50%;
-		top: 0;
-		position: fixed;
-		overflow: hidden;
-		white-space: nowrap;
-		display: inline-block;
-		border-right: 2px solid black;
-		/* For the typewriter cursor */
-		animation: blink 0.7s step-end infinite;
-	}
+			margin-left: 50%;
+			top: 0;
+			position: fixed;
+			overflow: hidden;
+			white-space: nowrap;
+			display: inline-block;
+			border-right: 2px solid black;
+			/* For the typewriter cursor */
+			animation: blink 0.7s step-end infinite;
+		}
 
 		header {
 			position: fixed;
