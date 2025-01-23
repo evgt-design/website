@@ -314,9 +314,9 @@ summary {}
   position: absolute;
 }
 
-.content-image:hover img{
+/* .content-image:hover img{
   filter: none !important;
-}
+} */
 
 .swiper {
   height: 100%;
@@ -402,6 +402,7 @@ img {
    
   .content-item {
     /* pointer-events: auto; */
+    padding-left: 3pt;
     overflow: scroll;
     height: 95%;
     margin-bottom: 5%;
@@ -438,9 +439,19 @@ img {
 
   .switch {
     display: block;
+    padding-right: 0.4rem;
+    margin-bottom: auto;
+    z-index: 999;
+    position: absolute !important;
+    bottom: 0 !important;
+    padding-left: 3pt;
+    /* bottom: 0; */
+    left: 0;
+    text-align: right;
   }
 
   .number {
+    display: none;
     z-index: 999;
     position: fixed !important;
     bottom: 0 !important;

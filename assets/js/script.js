@@ -30,14 +30,14 @@ function switchMode() {
     // contentImage.style.pointerEvents = "none";
 
     images.forEach(img => {
-      img.style.transition = "filter 0.4s ease-in-out";
+      img.style.transition = "filter 0.2s ease-in-out";
       img.style.filter = "opacity(50%) blur(10px)";
       img.style.zIndex = "1";
     });
 
     contentItems.forEach(content => {
       // content.style.pointerEvents = "auto";
-      content.style.transition = "filter 0.4s ease-in-out";
+      content.style.transition = "filter 0.2s ease-in-out";
       content.style.zIndex = "999";
       content.style.filter = "blur(0)";
       content.style.opacity = "1";
