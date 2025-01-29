@@ -298,5 +298,16 @@
       "assets/images/2024_portfolio_files/editorial/constant/constant_12.jpg",
       "assets/images/2024_portfolio_files/editorial/constant/constant_13.jpg"
     ]
+  },
+
+  {
+    "menuItem": "Screenprints",
+    "title": "Screenprints",
+    "date": "2021-2025",
+    "info": "Various screenprints for exhibitions, personal work and commissions (temporary photos)",
+    "images": [
+      "assets/images/2024_portfolio_files/screenprints/screenprint_1.jpg",
+      "assets/images/2024_portfolio_files/screenprints/screenprint_2.jpg"
+    ]
   }
 ]
