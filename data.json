@@ -1,29 +1,6 @@
 [
 
   {
-    "menuItem": "Textures",
-    "title": "Textures",
-    "date": "2021/2024(reprint)",
-    "info": "Textures is an experimental publication that transforms thirteen artworks into an exploration of material and detail. Each section is printed on a mix of coated papers, silver, milk, and ivory. \nThe artworks are fragmented into sixteen zoomed-in pages, inviting nonlinear exploration—lingering on details, flipping between pages, and uncovering new compositions. By shifting focus from the whole artwork and for allowing the details and textures to shine, Textures challenges the viewer to engage with overlooked moments in the creative process. Namely zooming in.",
-    "images": [
-      "assets/images/2024_portfolio_files/editorial/texture/texture_1.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_2.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_3.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_4.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_5.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_6.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_7.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_8.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_9.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_10.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_11.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_12.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_13.jpg",
-      "assets/images/2024_portfolio_files/editorial/texture/texture_14.jpg"
-    ]
-  },
-
-  {
     "menuItem": "BDBD",
     "title": "Best Dutch Book Design Student Catalogue",
     "date": "2022",
@@ -240,6 +217,29 @@
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_7.jpg",
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_8.jpg",
       "assets/images/2024_portfolio_files/exhibition/outvert/another_trick_9.jpg"
+    ]
+  },
+
+  {
+    "menuItem": "Textures",
+    "title": "Textures",
+    "date": "2021/2024(reprint)",
+    "info": "Textures is an experimental publication that transforms thirteen artworks into an exploration of material and detail. Each section is printed on a mix of coated papers, silver, milk, and ivory. \nThe artworks are fragmented into sixteen zoomed-in pages, inviting nonlinear exploration—lingering on details, flipping between pages, and uncovering new compositions. By shifting focus from the whole artwork and for allowing the details and textures to shine, Textures challenges the viewer to engage with overlooked moments in the creative process. Namely zooming in.",
+    "images": [
+      "assets/images/2024_portfolio_files/editorial/texture/texture_1.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_2.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_3.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_4.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_5.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_6.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_7.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_8.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_9.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_10.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_11.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_12.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_13.jpg",
+      "assets/images/2024_portfolio_files/editorial/texture/texture_14.jpg"
     ]
   },
 
